@@ -1,0 +1,28 @@
+h1
+{
+
+    color:yellow;
+    text-align: right;
+}
+
+p
+
+{
+   
+    color:red;
+    font-size: 40px;
+    letter-spacing: 10px;
+    line-height: 3;
+    text-decoration: pink underline;
+    font-family: Arial,monospace;
+    
+}
+
+button
+
+{
+
+    color:blue;
+    font-weight: bolder;
+
+}
